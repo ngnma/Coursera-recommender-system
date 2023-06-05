@@ -44,7 +44,8 @@ After gathering these information we create dataframe with them and save it on t
 ## Database
 First of all we should connect to our DB and also define function for savinf data to DB.
 
-For geting recommendation should get the datafarme from database and use it as .csv file by running query `SELECT * FROM DB_Name`
+For geting recommendation should get the datafarme from database and use it as .csv file 
+by running query `SELECT * FROM DB_Name`
 
 ## Data Analysis
 By doing some analysis and engineering on our dataset, make it ready for extract question that will be answered by user.
